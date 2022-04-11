@@ -1,0 +1,70 @@
+                                                                                                                                                    CIOMS FORM
+                     SUSPECT ADVERSE REACTION REPORT
+BMS-2019-034558(10)
+                                                                    I. REACTION INFORMATION
+ 1. PATIENT INITIALS 1a. COUNTRY       2. DATE OF BIRTH                         2a. AGE     3. SEX 4-6 REACTION ONSET                8-12 CHECK ALL
+       (first, last)                                                             Years                                                    APPROPRIATE
+                                                                                                      Day       Month      Year           TO ADVERSE
+                         GERMANY           Day       Month           Year
+                                                                                   48        Male                                         REACTION
+                                                                                                       04        Apr       2019
+ 7-13 DESCRIBE REACTION(S) (including relevant tests/lab data)                                                                             PATIENT DIED
+ 1) Pulmonary embolism (English)                                                                                                           LIFE THREATENING
+ MedDRA Version : v.24.1
+ PULMONARY EMBOLISM (Pulmonary embolism (10037377), Pulmonary embolism (10037377))                                                         INVOLVED OR
+    (05/May/2019 - Fatal)                                                                                                                  PROLONGED INPATIENT
+                                                                                                                                           HOSPITALIZATION
+ 2) Arterial embolism left leg (English)
+ ARTERIAL EMBOLISM LEFT LEG (Arterial embolism limb (10003159), Peripheral embolism (10061340))                                            RESULTS IN
+                                                                                                                                           PERSISTENCE OR
+    (04/Apr/2019 - Not Recovered/Not Resolved/Ongoing)                                                                                     SIGNIFICANT
+                                                                                                                             Cont..        DISABILITY/INCAPACITY
+                                                                                                                                           CONGENITAL ANOMALY
+                                                                                                                                           OTHER MEDICALLY
+                                                                                                                                           IMPORTANT CONDITION
+                                                               II. SUSPECT DRUG(S)INFORMATION
+14. SUSPECT DRUG(S)(include generic name)                                                                                           20.   DID EVENT
+1) NIVOLUMAB (NIVOLUMAB) (NIVOLUMAB) (Suspect) (Open-Label) (Solution for injection)                                                      ABATE AFTER
+                                                                                                                                          STOPPING DRUG?
+                                                                                                                            Cont..
+                                                                                                                                            YES          NO         NA
+15. DAILY DOSE(S)                                                                 16. ROUTE(S) OF ADMINISTRATION                    21.   DID EVENT
+1 milligram(s)/kilogram                                                           1) Intravenous (not otherwise specified)                REAPPEAR
+                                                                                                                                          AFTER
+                                                                                                                                          REINTRODUCTION
+                                                                                                                                            YES          NO         NA
+                                                                                                                                      (NA : Not Applicable)
+17. INDICATION(S) FOR USE
+1) URINARY BLADDER CANCER [10005003 - Bladder cancer]
+18. THERAPY DATE(S) (from/to)                         19. THERAPY DURATION
+1) (15/Nov/2018 - Unknown )                           Unknown
+                                                          III. CONCOMITANT DRUG(S) AND HISTORY
+22. CONCOMITANT DRUG(S) AND DATES OF ADMINISTRATION (exclude those used to treat reaction)
+1)DEKRISTOL(COLECALCIFEROL)(Unknown)(/Jul/2015)
+                                                                                                                                                               Cont..
+23. OTHER RELEVANT HISTORY (e.g. diagnostics, allergies, pregnancy with last month of period, etc.)
+MedDRA Version : v.24.1
+1) AUTISM (10003805, Autism) (Unknown - Unknown) (Continuing: Unknown)
+                                                                                                                                                               Cont..
+                                                               IV. MANUFACTURER INFORMATION
+24a. NAME AND ADDRESS OF MANUFACTURER                                                           Study Information
+Name : BMS                                                                                      Study Name: A Phase 3, Open-label, Randomized Study of
+UNITED STATES OF AMERICA                                                                        N(Cont..)
+noreply@bms.com
+                                                                                                EudraCT Number: 2016-003881-14
+                                                                                                Protocol No.: CA209-901
+                                                                                                Center No.: 0040
+                                                                                                Subject Id : 00556
+24.REPORT NULLIFIED                            24b. MFR CONTROL NO.
+     YES                 NO
+                                               BMS-2019-034558(10)
+24c. DATE RECEIVED                             24d. REPORT SOURCE
+     BY MANUFACTURER
+                                                    STUDY                LITERATURE
+15/Mar/2022
+                                                    HEALTH PROFESSIONAL
+DATE OF THIS REPORT                            25a. REPORT TYPE
+25/Mar/2022
+                                                    INITIAL              FOLLOWUP
+                                                                            Page 1 of 12                                              = Continuation attached sheet(s)..
+                                                       Approved v1.0                  930184041 1.0

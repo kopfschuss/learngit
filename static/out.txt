@@ -1,0 +1,68 @@
+                                                                                                                                                                CIOMS FORM
+            SUSPECT ADVERSE REACTION REPORT
+                                                                      I. REACTION INFORMATION
+  1. PATIENT INITIALS       1a. COUNTRY                 2. DATE OF BIRTH           2a. AGE        3. SEX     3a. WEIGHT    4-6 REACTION ONSET      8-12    CHECK ALL
+        (first, last)                                                                                                                                      APPROPRIATE TO
+                                                   Day        Month         Year                                          Day     Month     Year
+                       UNITED STATES                                                 36                       49.90                                        ADVERSE REACTION
+                                                                                   Years Female                   kg      30      APR      2018
+                                                                                                                                                           PATIENT DIED
+ 7 + 13 DESCRIBE REACTION(S) (including relevant tests/lab data)
+ Event Verbatim [PREFERRED TERM] (Related symptoms if any separated by commas)
+                                                                                                                                                           INVOLVED OR
+ Other Serious Criteria: Medically Significant                                                                                                             PROLONGED INPATIENT
+                                                                                                                                                           HOSPITALISATION
+ Immune-mediated colitis [Immune-mediated enterocolitis]                                                                                                   INVOLVED PERSISTENT
+                                                                                                                                                           OR SIGNIFICANT
+                                                                                                                                                           DISABILITY OR
+ Case Description: Protocol title (CA209-358): Non-Comparative, Open-Label, Multiple Cohort, Phase 1/2                                                     INCAPACITY
+ Study of Nivolumab Monotherapy and Nivolumab Combination Therapy in Subjects with Virus-Positive and                                                      LIFE
+ Virus-Negative Solid Tumors                                                                                                                               THREATENING
+                                                                                                                                                           CONGENITAL
+ PID: CA209-358-0023-00815 / BMS-2018-039941 / United States                                                                                               ANOMALY
+                                                                                                                                                           OTHER
+                                                                                                      (Continued on Additional Information Page)
+                                                             II. SUSPECT DRUG(S) INFORMATION
+ 14. SUSPECT DRUG(S) (include generic name)                                                                                                        20. DID REACTION
+                                                                                                                                                       ABATE AFTER STOPPING
+ #1 ) NIVOLUMAB (NIVOLUMAB) SOLUTION FOR INJECTION {Lot # UNKNOWN}                                                                                     DRUG?
+ #2 ) IPILIMUMAB (IPILIMUMAB) SOLUTION FOR INJECTION {Lot # UNKNOWN}
+ 15. DAILY DOSE(S)                                                                           16. ROUTE(S) OF ADMINISTRATION
+ #1 ) 3 milligram/kilogram                                                                   #1 ) IV                                                        YES     NO     NA
+ #2 ) 1 milligram/kilogram                                                                   #2 ) IV
+ 17. INDICATION(S) FOR USE                                                                                                                         21. DID REACTION
+                                                                                                                                                       REAPPEAR AFTER
+ #1 ) Anal cancer (Anal cancer)                                                                                                                        REINTRODUCTION?
+ #2 ) Anal cancer (Anal cancer)
+ 18. THERAPY DATES(from/to)                                                                  19. THERAPY DURATION
+ #1 ) 26-FEB-2018 / 30-MAR-2018                                                              #1 ) 33 days                                                   YES     NO     NA
+ #2 ) 26-FEB-2018 / 30-MAR-2018                                                              #2 ) 33 days
+                                                       III. CONCOMITANT DRUG(S) AND HISTORY
+ 22. CONCOMITANT DRUG(S) AND DATES OF ADMINISTRATION (exclude those used to treat reaction)
+ #1 ) MULTIVITAMIN [ASCORBIC ACID;BIOTIN;CALCIUM PANTOTHE
+ #2 ) VITAMIN B12 [CYANOCOBALAMIN] (CYANOCOBALAMIN) ; FEB-2018 / Ongoing
+ #3 ) OMEGA 3 FISH OILS (FISH OIL) ; FEB-2018 / Ongoing
+ #4 ) COQ10 [UBIDECARENONE] (UBIDECARENONE) ; FEB-2018 / Ongoing
+ #5 ) PROBIOTICS NOS (PROBIOTICS NOS) ; FEB-2018 / Ongoing
+ #6 ) ARMOUR THYROID (THYROID) ; 18-APR-2018 / Ongoing                                                                                  (Continued on Additional Information Page)
+ 23. OTHER RELEVANT HISTORY. (e.g. diagnostics, allergies, pregnancy with last month of period, etc.)
+ From/To Dates                                           Type of History / Notes               Description
+ Unknown to Ongoing                                      Disease History                       Anal cancer (Anal cancer)
+ Unknown                                                 Historical Condition                  Pulmonary metastases (Metastases to lung)
+                                                              IV. MANUFACTURER INFORMATION
+ 24a. NAME AND ADDRESS OF MANUFACTURER                                                               26. REMARKS
+ Bristol-Myers Squibb Company                                                                        World Wide #: US-BRISTOL-MYERS SQUIBB
+ Eileen Leonard                                                                                      COMPANY-BMS-2018-039941
+ GPV HW19-1.01 P.O. Box 5400
+ Princeton, NJ 08543-5400 UNITED STATES                                                              Patient ID: 00815
+ Phone: 6098183513                                                                                   Study ID: CA209-358(continued)
+                                  24b. MFR CONTROL NO.                                               25b. NAME AND ADDRESS OF REPORTER
+                                   BMS-2018-039941
+ 24c. DATE RECEIVED               24d. REPORT SOURCE
+      BY MANUFACTURER                   STUDY                     LITERATURE
+ 16-FEB-2022                            HEALTH                    OTHER:
+                                        PROFESSIONAL
+ DATE OF THIS REPORT              25a. REPORT TYPE
+ 23-FEB-2022                            INITIAL                   FOLLOWUP:       6
+23-Feb-2022 10:27
+                                                          Approved v 1.0                        930182453 1.0
