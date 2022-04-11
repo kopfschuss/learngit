@@ -60,8 +60,7 @@ def testopenpyxl(filename):
 
 testopenpyxl("/mnt/c/Project/workspace/data/pdf/212 - 副本.xlsm")
 
-#pathTest(file)
-#print(len(Cols),Cols)
+#fuck me 
 """
 path=os.path.dirname(file)
 walk=os.walk(path)
