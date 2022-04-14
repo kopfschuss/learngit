@@ -13,7 +13,7 @@ from PIL import Image
 from pdf2image import convert_from_path
 import pytesseract
 import openpyxl
-#try
+#try fuck 1
 file = "/mnt/c/Project/workspace/data/pdf/41_Nivo_SUSAR_BMS-2022-030322_FU2_United States_CA017-078 (ROW) Blinded.pdf"
 file2="/mnt/c/Project/workspace/data/pdf/212_nivo_ipi_SUSAR_bms-2019-034558_10_DE_CA209-901_ROW_open label.pdf"
 #print(pdfToText(file)[1].split())
